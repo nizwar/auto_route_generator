@@ -19,7 +19,7 @@ dependencies:
   auto_route: 
     git:
       url: https://github.com/nizwar/auto_route_lib.git
-      ref: updated_button
+#       ref: updated_button
 #    path: ../auto_route
 
 dev_dependencies:
